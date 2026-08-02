@@ -135,9 +135,9 @@ Productivity application with Pomodoro, website blocker, notes, and collaboratio
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=karthik-kumarux&show_icons=true&theme=tokyonight"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=karthik-kumarux&layout=compact&theme=tokyonight"/>
 
 </p>
 
@@ -147,7 +147,7 @@ Productivity application with Pomodoro, website blocker, notes, and collaboratio
 
 <p align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=karthik-kumarux&theme=tokyonight"/>
 
 </p>
 
@@ -167,7 +167,7 @@ Productivity application with Pomodoro, website blocker, notes, and collaboratio
 
 <p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=onedark&row=2&column=4"/>
+<img src="https://github-profile-trophy.vercel.app/?username=karthik-kumarux&theme=onedark&row=2&column=4"/>
 
 </p>
 
@@ -177,15 +177,15 @@ Productivity application with Pomodoro, website blocker, notes, and collaboratio
 
 <p align="center">
 
-<a href="https://github.com/YOUR_USERNAME">
+<a href="https://github.com/karthik-kumarux">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
 </a>
 
-<a href="https://linkedin.com/in/YOUR_LINK">
+<a href="https://linkedin.com/in/karthik-kumar-minuga/">
 <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
 </a>
 
-<a href="mailto:YOUR_EMAIL">
+<a href="mailto:karthikyt369@gmail.com">
 <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail"/>
 </a>
 
@@ -197,6 +197,6 @@ Productivity application with Pomodoro, website blocker, notes, and collaboratio
 
 ### 💡 "Building Intelligent Systems That Solve Real-World Problems."
 
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile+Views&color=0e75b6&style=flat"/>
+<img src="https://komarev.com/ghpvc/?username=karthik-kumarux&label=Profile+Views&color=0e75b6&style=flat"/>
 
 </div>
