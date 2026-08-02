@@ -157,7 +157,7 @@ Productivity application with Pomodoro, website blocker, notes, and collaboratio
 
 <p align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=react-dark"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=karthik-kumarux&theme=react-dark"/>
 
 </p>
 
